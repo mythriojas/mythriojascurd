@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "smaple ",
+      "lastName": "testSs",
+      "email": "sample@gmail.com",
+      "mobile": "9948499884",
+      "salary": 500000
+    },
+    {
+      "id": 3,
+      "firstName": "tets ",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "mobile": "88998988989",
+      "salary": 450000
+    },
+    {
+      "id": 4,
+      "firstName": "varun ",
+      "lastName": "r",
+      "email": "varun@gmail.com",
+      "mobile": "8899889989",
+      "salary": 700000
+    },
+    {
+      "id": 5,
+      "firstName": "kiran ",
+      "lastName": "A",
+      "email": "kiran@gmail.com",
+      "mobile": "89898888",
+      "salary": 500000
+    },
+    {
+      "id": 6,
+      "firstName": "cdacac",
+      "lastName": "acaca",
+      "email": "acaca",
+      "mobile": "456666",
+      "salary": 340000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
